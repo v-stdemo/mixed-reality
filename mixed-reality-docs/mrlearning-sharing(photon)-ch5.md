@@ -8,9 +8,9 @@ ms.topic: article
 keywords: mixed reality, unity, tutorial, hololens
 ---
 
-# Azure Spatial Anchors and shared experiences
+# 5. Integration Azure Spatial Anchors into a shared experience
 
-In this lesson, we learn how to integrate Azure Spatial Anchors (ASA) into our shared experience. ASA allows multiple co-located devices to have a common reference if their physical environment is to anchor virtual experiences such that all participants see objects in the same physical place.
+In this tutorial, we learn how to integrate Azure Spatial Anchors (ASA) into our shared experience. ASA allows multiple co-located devices to have a common reference if their physical environment is to anchor virtual experiences such that all participants see objects in the same physical place.
 
 Before proceeding with this lesson, we'll need to complete the ASA learning module, which will cover ASA basics, Azure account and resource creation, and other fundamental buildings blocks that are required before we can integrate ASA into our shared experience.
 
@@ -21,7 +21,7 @@ Objectives:
 
 ### Instructions
 
-1. Save the project from the previous lesson (control+S) and name it "HLSharedProjectMainPart5.unity" so that it's easier to find when you need it again.
+1. Save the project from the previous lesson (control+S) and name it, HLSharedProjectMainPart5.unity, so that it's easier to find when you need it again.
 
 2. Select the TableAnchor prefab underneath the MixedRealityPlayspace parent object, and delete it.
 
